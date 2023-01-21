@@ -3,4 +3,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/pluniwcv/public_html/memex/
-    - /bin/cp -R * $DEPLOYPATH
+    - /bin/cp -r /home/pluniwcv/repositories/memex/* $DEPLOYPATH
