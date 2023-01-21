@@ -1,6 +1,6 @@
-[**Link to live version**](https://plungepool.dev/memex/index.html)
+## [**Link to live version @ plungepool.dev**](https://plungepool.dev/memex/index.html)
 
-Virtual personal corkboard and fork of [Memex by Kormyen](https://github.com/kormyen/memex).
+## Virtual personal corkboard and fork of [Memex by Kormyen](https://github.com/kormyen/memex).
 
 Original README
 --------------
