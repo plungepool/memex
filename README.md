@@ -2,6 +2,7 @@
 
 ### Virtual personal corkboard and fork of [Memex by Kormyen](https://github.com/kormyen/memex).
 
+--------------
 Original README
 --------------
 [**Live web version here**](https://kormyen.github.io/memex/)
