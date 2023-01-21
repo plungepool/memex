@@ -1,3 +1,8 @@
+[**Link to live version**](https://plungepool.dev/memex/index.html)
+Virtual personal corkboard and fork of [Memex by Kormyen](https://github.com/kormyen/memex).
+
+Original README
+--------------
 [**Live web version here**](https://kormyen.github.io/memex/)
 
 **Memex** is a [personal knowledge base](https://scholar.colorado.edu/csci_techreports/931/).
