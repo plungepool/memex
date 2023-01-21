@@ -3,9 +3,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/pluniwcv/public_html/memex/
-    - /bin/cp -R asset $DEPLOYPATH
-    - /bin/cp -R content $DEPLOYPATH
-    - /bin/cp -R logic $DEPLOYPATH
-    /bin/cp index.html $DEPLOYPATH
-    /bin/cp PREVIEW.jpg $DEPLOYPATH
-    /bin/cp README.md $DEPLOYPATH
+    - /bin/cp -R * $DEPLOYPATH
