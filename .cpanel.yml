@@ -2,7 +2,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/cyclpsrock/public_html/memex/
+    - export DEPLOYPATH=/home/pluniwcv/public_html/memex/
     - /bin/cp -R asset $DEPLOYPATH
     - /bin/cp -R content $DEPLOYPATH
     - /bin/cp -R logic $DEPLOYPATH
