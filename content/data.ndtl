@@ -1,12 +1,5 @@
 var DATABASE = `
 
-TEST!!
-  TYPE : link
-  LINK : https://www.resetera.com/threads/retro-cityscapes.1351/
-  TAGS : games, art
-  DONE : false
-  NOTE : Resetera thread of pixel art gifs of cityscapes from retro video games.
-
 Why are there so many tech layoffs, and why should we be worried? Stanford scholar explains
   TYPE : article
   LINK : https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/
