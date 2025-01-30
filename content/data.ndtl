@@ -1,5 +1,13 @@
 var DATABASE = `
 
+AI is Creating a Generation of Illiterate Programmers
+  TYPE : article
+  LINK : https://nmn.gl/blog/ai-illiterate-programmers
+  TAGS : computing
+  DONE : true
+  QOTE
+    "Every time we let AI solve a problem we could’ve solved ourselves, we’re trading long-term understanding for short-term productivity. We’re optimizing for today’s commit at the cost of tomorrow’s ability."
+
 AI Training Shouldn't Erase Authorship
   TYPE : article
   LINK : https://justine.lol/history/
